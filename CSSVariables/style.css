@@ -1,0 +1,42 @@
+:root {
+  --base: #ffc600;
+  --spacing: 10px;
+  --blur: 10px;
+}
+
+.home {
+position: absolute;
+font-size: 30px;
+top: 0;
+left: 0;
+color: white;
+text-transform: uppercase;
+text-shadow: 2px 2px 8px #000000;
+}
+
+body {
+  text-align: center;
+  background: #193549;
+  color: white;
+  font-family: 'helvetica neue', sans-serif;
+  font-weight: 100;
+  font-size: 40px;
+}
+
+.controls {
+  margin-bottom: 50px;
+}
+
+input {
+  width: 100px;
+}
+
+img {
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+}
+
+h2 {
+  color: var(--base);
+}

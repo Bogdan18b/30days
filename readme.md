@@ -6,3 +6,5 @@ I built a drum kit, using event listeners and CSS transitions.
 I built a clock, using CSS transitions and a setInterval.
 <h3>Day 3(01/07/2019) - CSS variables</h3>
 I learned how to declare CSS variables and update them using JavaScript.
+<h3>Day 4(01/08/2019) - Array methods</h3>
+I finally figured out how to use reduce method and practiced on familiar methods, like map, filter, sort.

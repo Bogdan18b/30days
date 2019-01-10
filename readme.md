@@ -10,3 +10,5 @@ I learned how to declare CSS variables and update them using JavaScript.
 I finally figured out how to use reduce method and practiced on familiar methods, like map, filter, sort.
 <h3>Day 5(01/09/2019) - Flex panels gallery</h3>
 I am still struggling with flex, but I got a better idea of how it works.
+<h3>Day 6(01/10/2019) - AJAX search cities</h3>
+I used the fetch API to get a list of cities, which I filtered it by city or state name using regex; and added some cool CSS transforms.

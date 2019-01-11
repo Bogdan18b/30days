@@ -12,3 +12,5 @@ I finally figured out how to use reduce method and practiced on familiar methods
 I am still struggling with flex, but I got a better idea of how it works.
 <h3>Day 6(01/10/2019) - AJAX search cities</h3>
 I used the fetch API to get a list of cities, which I filtered it by city or state name using regex; and added some cool CSS transforms.
+<h3>Day 7(01/11/2019) - Array methods part 2</h3>
+I practiced a few more useful array methods, every, some, find, findIndex.

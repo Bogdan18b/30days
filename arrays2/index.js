@@ -36,6 +36,9 @@
   let commentId = comments.findIndex(com => com.id === 823423);
   console.log(commentId);
   // delete the comment with the ID of 823423
-  newComments = [...comments.slice(0,commentId), ...comments.slice(commentId + 1)]; // cool way
+  newComments = [
+    ...comments.slice(0,commentId),
+    ...comments.slice(commentId + 1)
+  ]; // cool way
   // comments.splice(commentId, 1); traditional way
   console.table(newComments);

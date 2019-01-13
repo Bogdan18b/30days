@@ -15,4 +15,6 @@ I used the fetch API to get a list of cities, which I filtered it by city or sta
 <h3>Day 7(01/11/2019) - Array methods part 2</h3>
 I practiced a few more useful array methods, every, some, find, findIndex.
 <h3>Day 8(01/12/2019) - Canvas</h3>
-Play around with canvas; a flashback to the old windows paint.
+I played around with canvas; a flashback to the old windows paint.
+<h3>Day 9(01/13/2019) - Dev tools tricks</h3>
+I learned a few cool console tricks, like styling console text, asserting statements, logging warnings, errors, grouping elements.

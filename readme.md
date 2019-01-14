@@ -18,3 +18,5 @@ I practiced a few more useful array methods, every, some, find, findIndex.
 I played around with canvas; a flashback to the old windows paint.
 <h3>Day 9(01/13/2019) - Dev tools tricks</h3>
 I learned a few cool console tricks, like styling console text, asserting statements, logging warnings, errors, grouping elements.
+<h3>Day 10(01/14/2019) - Select multiple checkboxes</h3>
+I learned how to select multiple checkboxes when holding shiftKey, using vanilla JavaScript.

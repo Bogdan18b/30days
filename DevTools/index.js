@@ -4,6 +4,7 @@
     function makeGreen() {
       p.style.color = '#BADA55';
       p.style.fontSize = '50px';
+      p.textContent = 'Open the console';
     }
 
     // Regular

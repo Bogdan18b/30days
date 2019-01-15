@@ -101,7 +101,7 @@ body {
   width: 50%;
   background: #ffc600;
   flex: 0;
-  flex-basis: 50%;
+  flex-basis: 0;
 }
 
 /* unholy css to style input type="range" */
@@ -159,4 +159,14 @@ input[type=range]::-moz-range-thumb {
   border-radius: 50px;
   background: #ffc600;
   cursor: pointer;
+}
+
+.home {
+  position: absolute;
+  font-size: 3rem;
+  top: 0;
+  left: 0;
+  color: #ffc600;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px #000000;
 }

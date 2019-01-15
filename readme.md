@@ -20,3 +20,5 @@ I played around with canvas; a flashback to the old windows paint.
 I learned a few cool console tricks, like styling console text, asserting statements, logging warnings, errors, grouping elements.
 <h3>Day 10(01/14/2019) - Select multiple checkboxes</h3>
 I learned how to select multiple checkboxes when holding shiftKey, using vanilla JavaScript.
+<h3>Day 11(01/15/2019) - HTML video player</h3>
+This was the best project so far; I learned how to control the video player; most importantly, from now on I will change the playback rate on all the videos I watch outside youtube from the console :).

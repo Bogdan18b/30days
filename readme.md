@@ -21,4 +21,6 @@ I learned a few cool console tricks, like styling console text, asserting statem
 <h3>Day 10(01/14/2019) - Select multiple checkboxes</h3>
 I learned how to select multiple checkboxes when holding shiftKey, using vanilla JavaScript.
 <h3>Day 11(01/15/2019) - HTML video player</h3>
-This was the best project so far; I learned how to control the video player; most importantly, from now on I will change the playback rate on all the videos I watch outside youtube from the console :).
+This was the best project so far; I learned how to control the video player; most importantly, from now on I will change the playback rate on all the videos I watch outside youtube from the console 😄.
+<h3>Day 12(01/16/2019) - Key sequence detection</h3>
+This was a cool small project, showing how to insert something on the screen when a certain secret code is typed; remember the old days game cheat codes (I never used them to get unlimited money or lifes in GTA or other games 😄);

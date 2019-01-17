@@ -53,3 +53,13 @@ h1 {
   opacity: 1;
   transform: translateX(0%) scale(1);
 }
+
+.home {
+  position: absolute;
+  font-size: 2rem;
+  top: 0;
+  left: 0;
+  color: white;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px #000000;
+}

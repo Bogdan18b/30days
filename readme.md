@@ -26,3 +26,5 @@ This was the best project so far; I learned how to control the video player; mos
 This was a cool small project, showing how to insert something on the screen when a certain secret code is typed; remember the old days game cheat codes (I never used them to get unlimited money or lifes in GTA or other games 😄).
 <h3>Day 13(01/17/2019) - Slide in on scroll</h3>
 This was a cool project, with images being displayed on the page only when they are on the screen.
+<h3>Day 14(01/18/2019) - JavaScript reference vs copy</h3>
+This was just a reminder that primitives are passed by value, and objects are passed by reference.

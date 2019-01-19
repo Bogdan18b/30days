@@ -11,7 +11,7 @@ html {
 }
 
 *, *:before, *:after {
-  box-sizing: inherit; 
+  box-sizing: inherit;
 }
 
 svg {
@@ -36,35 +36,35 @@ h2 {
   font-weight: 200;
 }
 
-.plates {
+.dishes {
   margin: 0;
   padding: 0;
   text-align: left;
   list-style: none;
 }
 
-.plates li {
+.dishes li {
   border-bottom: 1px solid rgba(0,0,0,0.2);
   padding: 10px 0;
   font-weight: 100;
   display: flex;
 }
 
-.plates label {
+.dishes label {
   flex: 1;
   cursor: pointer;
 }
 
-.plates input {
+.dishes input {
   display: none;
 }
 
-.plates input + label:before {
+.dishes input + label:before {
   content: '⬜️';
   margin-right: 10px;
 }
 
-.plates input:checked + label:before {
+.dishes input:checked + label:before {
   content: '🌮';
 }
 
@@ -76,4 +76,14 @@ h2 {
   padding: 10px;
   outline: 0;
   border: 1px solid rgba(0,0,0,0.1);
+}
+
+.home {
+  position: absolute;
+  font-size: 2rem;
+  top: 0;
+  left: 0;
+  color: #ffc600;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px #000000;
 }

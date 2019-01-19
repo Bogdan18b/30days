@@ -28,3 +28,5 @@ This was a cool small project, showing how to insert something on the screen whe
 This was a cool project, with images being displayed on the page only when they are on the screen.
 <h3>Day 14(01/18/2019) - JavaScript reference vs copy</h3>
 This was just a reminder that primitives are passed by value, and objects are passed by reference.
+<h3>Day 15(01/19/2019) - Local storage</h3>
+I finished half of the projects; feeling good 😄; this was a good lesson not only about local storage, but about event delegation.

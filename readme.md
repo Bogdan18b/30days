@@ -30,3 +30,5 @@ This was a cool project, with images being displayed on the page only when they 
 This was just a reminder that primitives are passed by value, and objects are passed by reference.
 <h3>Day 15(01/19/2019) - Local storage</h3>
 I finished half of the projects; feeling good 😄; this was a good lesson not only about local storage, but about event delegation.
+<h3>Day 16(01/20/2019) - Mouse move shadow</h3>
+This was a cool trick where we added a mouse move event listener to make a text shadow that follows the mouse.

@@ -32,3 +32,5 @@ This was just a reminder that primitives are passed by value, and objects are pa
 I finished half of the projects; feeling good 😄; this was a good lesson not only about local storage, but about event delegation.
 <h3>Day 16(01/20/2019) - Mouse move shadow</h3>
 This was a cool trick where we added a mouse move event listener to make a text shadow that follows the mouse.
+<h3>Day 17(01/21/2019) - Sort without articles</h3>
+This was an easy exercise, where I sorted a list of bands without considering the articles, I converted each band to an array and remove first item if it was article, but it would have been easier to replace first word with a regex.

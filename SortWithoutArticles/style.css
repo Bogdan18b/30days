@@ -31,3 +31,13 @@ a {
   color: #ffc600;
   text-decoration: none;
 }
+
+.home {
+  position: absolute;
+  font-size: 2rem;
+  top: 0;
+  left: 0;
+  color: #ffc600;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px #000000;
+}

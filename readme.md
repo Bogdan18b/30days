@@ -34,3 +34,5 @@ I finished half of the projects; feeling good 😄; this was a good lesson not o
 This was a cool trick where we added a mouse move event listener to make a text shadow that follows the mouse.
 <h3>Day 17(01/21/2019) - Sort without articles</h3>
 This was an easy exercise, where I sorted a list of bands without considering the articles, I converted each band to an array and remove first item if it was article, but it would have been easier to replace first word with a regex.
+<h3>Day 17(01/21/2019) - Sort without articles</h3>
+This was a reminder of array reduce method, which I can definitely say I master it now.

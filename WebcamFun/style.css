@@ -58,3 +58,13 @@ html {
 .strip a:nth-child(5n+3) img { transform: rotate(8deg); }
 .strip a:nth-child(5n+4) img { transform: rotate(-11deg); }
 .strip a:nth-child(5n+5) img { transform: rotate(12deg); }
+
+.home {
+  position: absolute;
+  font-size: 1.5rem;
+  top: 0;
+  left: 0;
+  color: black;
+  text-transform: uppercase;
+  }
+  

@@ -40,3 +40,5 @@ This was a reminder of array reduce method, which I can definitely say I master 
 This was a cool project, I built a photobooth.
 <h3>Day 20(01/24/2019) - Speech recognition</h3>
 Easy way to enable speech recognition and have my custom Siri or Alexa 😄;
+<h3>Day 21(01/25/2019) - Geolocation</h3>
+This was a cool project, a presentation on how to use geolocation.

@@ -38,3 +38,5 @@ This was an easy exercise, where I sorted a list of bands without considering th
 This was a reminder of array reduce method, which I can definitely say I master it now.
 <h3>Day 19(01/23/2019) - Webcam fun</h3>
 This was a cool project, I built a photobooth.
+<h3>Day 20(01/24/2019) - Speech recognition</h3>
+Easy way to enable speech recognition and have my custom Siri or Alexa 😄;

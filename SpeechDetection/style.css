@@ -36,3 +36,12 @@ p {
   border: 1px solid;
   border-color: transparent #efe4e4;
 }
+.home {
+  position: absolute;
+  font-size: 3rem;
+  top: 0;
+  left: 0;
+  color: white;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px #000000;
+}

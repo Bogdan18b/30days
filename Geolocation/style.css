@@ -40,3 +40,14 @@ html {
     font-size: 15px;
   }
   /*Compass: https://thenounproject.com/search/?q=compass&i=592352*/
+
+  .home {
+    position: absolute;
+    font-size: 20px;
+    top: 0;
+    left: 0;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 8px #000000;
+  }
+  

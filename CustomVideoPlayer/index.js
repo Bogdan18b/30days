@@ -43,7 +43,7 @@ toggle.addEventListener('click', togglePlay);
 skipButtons.forEach(button => button.addEventListener('click', skip));
 ranges.forEach(range => range.addEventListener('change', handleRangeUpdate));
 ranges.forEach(range => range.addEventListener('mousemove', handleRangeUpdate));
-fullScreen.addEventListener('click',() => video.requestFullscreen());
+fullScreen.addEventListener('click', () => video.requestFullscreen());
 
 let mousedown = false;
 progressBar.addEventListener('click', scrub);

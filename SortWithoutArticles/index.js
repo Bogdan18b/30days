@@ -5,12 +5,12 @@ const coolSort = (a, b) => coolStrip(a) > coolStrip(b) ? 1 : -1;
 
 bands.sort(coolSort);
 document.getElementById('bands').innerHTML = bands
-    .map(band => `<li>${band}</li>`)
-    .join('');
+  .map(band => `<li>${band}</li>`)
+  .join('');
 
 function noArticle(a, b) {
   const [a1, b1] = [
-    removeArticle(a.split(' ')).join(' '), 
+    removeArticle(a.split(' ')).join(' '),
     removeArticle(b.split(' ')).join(' ')
   ];
   return a1 > b1 ? 1 : -1;
@@ -18,6 +18,6 @@ function noArticle(a, b) {
 
 function removeArticle(arr) {
   const articles = ['a', 'an', 'the'];
-  if(articles.includes(arr[0].toLowerCase())) arr = arr.slice(1);
+  if (articles.includes(arr[0].toLowerCase())) arr = arr.slice(1);
   return arr;
 } 

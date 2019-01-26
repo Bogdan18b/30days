@@ -37,18 +37,18 @@ function takePhoto() {
 }
 
 function redEffect(pixels) {
-  for(let i=0; i<pixels.data.length; i+= 4) {
+  for (let i = 0; i < pixels.data.length; i += 4) {
     pixels.data[i] += 100;  //R pixels is a long array of rgba values, each ele is one value
-    pixels.data[i+1] -= 50; //G
-    pixels.data[i+2] += 20; //B
+    pixels.data[i + 1] -= 50; //G
+    pixels.data[i + 2] += 20; //B
   }
   return pixels;
 }
 function rgbSplit(pixels) {
-  for(let i=0; i<pixels.data.length; i+= 4) {
-    pixels.data[i - 150] = pixels.data[i];  
-    pixels.data[i + 100] = pixels.data[i+1];
-    pixels.data[i + 200] = pixels.data[i+2];
+  for (let i = 0; i < pixels.data.length; i += 4) {
+    pixels.data[i - 150] = pixels.data[i];
+    pixels.data[i + 100] = pixels.data[i + 1];
+    pixels.data[i + 200] = pixels.data[i + 2];
   }
   return pixels;
 }

@@ -5,12 +5,12 @@ let lastChecked;
 
 function multipleSelect(e) {
   let inBetween = false;
-  if(e.shiftKey && this.checked) {
+  if (e.shiftKey && this.checked) {
     inputs.forEach(input => {
-      if(input === this || input === lastChecked) {
+      if (input === this || input === lastChecked) {
         inBetween = !inBetween;
       }
-      if(inBetween) input.checked = true;
+      if (inBetween) input.checked = true;
     });
   }
 

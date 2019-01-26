@@ -1,8 +1,8 @@
 function debounce(func, wait = 20, immediate = true) {
   var timeout;
-  return function() {
+  return function () {
     var context = this, args = arguments;
-    var later = function() {
+    var later = function () {
       timeout = null;
       if (!immediate) func.apply(context, args);
     };
@@ -23,7 +23,7 @@ function checkSlide(e) {
     const isHalfShown = slideInAt > sliderImage.offsetTop;
     const isNotScrolledPast = window.scrollY < imageBottom;
 
-    if(isHalfShown && isNotScrolledPast) {
+    if (isHalfShown && isNotScrolledPast) {
       sliderImage.classList.add('active');
     } else {
       sliderImage.classList.remove('active');

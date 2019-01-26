@@ -15,7 +15,7 @@ let hue = 0;
 let direction = true;
 
 function draw(e) {
-  if(!isDrawing) return;
+  if (!isDrawing) return;
   ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
   ctx.beginPath();
   ctx.moveTo(lastX, lastY);
@@ -24,9 +24,9 @@ function draw(e) {
   [lastX, lastY] = [e.offsetX, e.offsetY];
 
   hue++;
-  if(hue > 360) hue = 0;
-  if(ctx.lineWidth >= 100 || ctx.lineWidth <= 1) direction = !direction;
-  if(direction) {
+  if (hue > 360) hue = 0;
+  if (ctx.lineWidth >= 100 || ctx.lineWidth <= 1) direction = !direction;
+  if (direction) {
     ctx.lineWidth++;
   } else {
     ctx.lineWidth--;

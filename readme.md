@@ -42,3 +42,5 @@ This was a cool project, I built a photobooth.
 Easy way to enable speech recognition and have my custom Siri or Alexa 😄;
 <h3>Day 21(01/25/2019) - Geolocation</h3>
 This was a cool project, a presentation on how to use geolocation.
+<h3>Day 22(01/26/2019) - Follow along links</h3>
+This was a very cool trick, learning how to follow along links and add a background hover effect.

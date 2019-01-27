@@ -44,3 +44,5 @@ Easy way to enable speech recognition and have my custom Siri or Alexa 😄;
 This was a cool project, a presentation on how to use geolocation.
 <h3>Day 22(01/26/2019) - Follow along links</h3>
 This was a very cool trick, learning how to follow along links and add a background hover effect.
+<h3>Day 23(01/27/2019) - Speech synthesis</h3>
+Alexa from Day 20 just got a lot of friends.

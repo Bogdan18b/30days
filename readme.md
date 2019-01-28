@@ -46,3 +46,5 @@ This was a cool project, a presentation on how to use geolocation.
 This was a very cool trick, learning how to follow along links and add a background hover effect.
 <h3>Day 23(01/27/2019) - Speech synthesis</h3>
 Alexa from Day 20 just got a lot of friends.
+<h3>Day 24(01/28/2019) - Sticky nav</h3>
+Cool easy way to add a sticky nav to any website.

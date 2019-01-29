@@ -22,3 +22,13 @@
   .three {
     background: coral;
   }
+  .home {
+    position: absolute;
+    font-size: 1.5rem;
+    top: 0;
+    left: 0;
+    color: black;
+    text-transform: uppercase;
+    padding: 10px;
+    }
+    

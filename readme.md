@@ -48,3 +48,5 @@ This was a very cool trick, learning how to follow along links and add a backgro
 Alexa from Day 20 just got a lot of friends.
 <h3>Day 24(01/28/2019) - Sticky nav</h3>
 Cool easy way to add a sticky nav to any website.
+<h3>Day 25(01/28/2019) - Event capturing, bubbling, propagation and once</h3>
+A quick example of how event bubbling and capturing works, and how to modify the default behaviour.

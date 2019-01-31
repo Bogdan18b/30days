@@ -48,7 +48,9 @@ This was a very cool trick, learning how to follow along links and add a backgro
 Alexa from Day 20 just got a lot of friends.
 <h3>Day 24(01/28/2019) - Sticky nav</h3>
 Cool easy way to add a sticky nav to any website.
-<h3>Day 25(01/28/2019) - Event capturing, bubbling, propagation and once</h3>
+<h3>Day 25(01/29/2019) - Event capturing, bubbling, propagation and once</h3>
 A quick example of how event bubbling and capturing works, and how to modify the default behaviour.
-<h3>Day 26(01/29/2019) - Follow along nav (inspired by Stripe)</h3>
+<h3>Day 26(01/30/2019) - Follow along nav (inspired by Stripe)</h3>
 Enhancement from Day 22, showing how to follow a dropdown menu and resize the background to fit beautifully.
+<h3>Day 27(01/31/2019) - Click and drag</h3>
+This was a very cool project, I made a click and drag container, using 4 different mouse events.

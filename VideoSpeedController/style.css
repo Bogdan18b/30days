@@ -40,3 +40,13 @@ video {
   color: white;
   height: 16.3%;
 }
+.home {
+  position: absolute;
+  font-size: 2rem;
+  top: 0;
+  left: 0;
+  color: #ffc600;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px #000000;
+}
+

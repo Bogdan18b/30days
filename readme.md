@@ -54,3 +54,5 @@ A quick example of how event bubbling and capturing works, and how to modify the
 Enhancement from Day 22, showing how to follow a dropdown menu and resize the background to fit beautifully.
 <h3>Day 27(01/31/2019) - Click and drag</h3>
 This was a very cool project, I made a click and drag container, using 4 different mouse events.
+<h3>Day 28(02/01/2019) - Video speed controller</h3>
+I practiced more with the video playback rate.

@@ -56,3 +56,5 @@ Enhancement from Day 22, showing how to follow a dropdown menu and resize the ba
 This was a very cool project, I made a click and drag container, using 4 different mouse events.
 <h3>Day 28(02/01/2019) - Video speed controller</h3>
 I practiced more with the video playback rate.
+<h3>Day 29(02/02/2019) - Countdown timer</h3>
+This was a custom countdown timer.

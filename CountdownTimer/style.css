@@ -31,10 +31,12 @@ body {
 
 .timer__controls {
   display: flex;
+  flex-direction: column;
 }
 
 .timer__controls > * {
-  flex: 1;
+  align-self: center;
+  width: 200px;
 }
 
 .timer__controls form {
@@ -79,4 +81,13 @@ body {
 .display__end-time {
   font-size: 4rem;
   color: white;
+}
+.home {
+  position: absolute;
+  font-size: 3rem;
+  top: 0;
+  left: 0;
+  color: #ffc600;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px #000000;
 }

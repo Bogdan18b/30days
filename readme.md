@@ -58,3 +58,5 @@ This was a very cool project, I made a click and drag container, using 4 differe
 I practiced more with the video playback rate.
 <h3>Day 29(02/02/2019) - Countdown timer</h3>
 This was a custom countdown timer.
+<h3>Day 30(02/03/2019) - Whack a mole</h3>
+A fun addictive game for the last day. I made it, 30 days in a row 😃!

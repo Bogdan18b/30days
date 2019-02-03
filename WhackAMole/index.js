@@ -1,10 +1,13 @@
 const holes = document.querySelectorAll('.hole');
 const scoreBoard = document.querySelector('.score');
 const start = document.querySelector('.start');
+const bestScore = document.querySelector('.best-score');
 const moles = document.querySelectorAll('.mole');
 let lastHole;
 let timeUp = false;
 let score = 0;
+let best = 0;
+bestScore.textContent = best;
 
 function randomTime(min, max) {
   return Math.round(Math.random() * (max - min) + min);
@@ -33,11 +36,16 @@ function startGame() {
   timeUp = false;
   score = 0;
   peep();
-  setTimeout(() => timeUp = true, 10000);
+  setTimeout(gameOver, 3000);
+}
+function gameOver() {
+  timeUp = true;
+  best = Math.max(best, score);
+  bestScore.textContent = best;
 }
 function hit(e) {
   if (!e.isTrusted) return; //don't try to simulate click with javaScript!!!
-  score++;
+  ++score;
   this.classList.remove('up');
   scoreBoard.textContent = score;
 }

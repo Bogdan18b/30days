@@ -14,14 +14,14 @@ body {
   font-family: 'Amatic SC', cursive;
 }
 
-h1 {
+.title {
   text-align: center;
   font-size: 10rem;
   line-height: 1;
   margin-bottom: 0;
 }
 
-.score {
+.score, .high-score > h1:nth-of-type(2){
   background: rgba(255,255,255,0.2);
   padding: 0 3rem;
   line-height: 1;
@@ -76,4 +76,23 @@ h1 {
   text-transform: uppercase;
   text-shadow: 2px 2px 8px #000000;
 }
-
+.start {
+  margin: 0 auto;
+  display: block;
+  font-size: 3rem;
+  border-radius: 10px;
+  background: black;
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+.high-score {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 1px dashed black;
+  border-radius: 20px;
+  padding: 0.5rem;
+  font-size: 3rem;
+  text-align: center;
+}
